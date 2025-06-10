@@ -1,10 +1,10 @@
 # OneLine2Cal
 
-A simple tool to convert one-line text descriptions into calendar events.
+A tool to extract locations from a film & TV "oneline" schedule PDF and sync these to your Google Calendar so you have a quick overview of what's coming down the line.
 
 ## Description
 
-OneLine2Cal is a utility that helps you quickly create calendar events from simple text descriptions. It parses natural language input and converts it into properly formatted calendar events.
+to come.
 
 ## Getting Started
 
