@@ -17,7 +17,7 @@ OneLine2Cal is a utility that helps you quickly create calendar events from simp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/OneLine2Cal.git
+git clone https://github.com/edmooredop/OneLine2Cal.git
 cd OneLine2Cal
 ```
 
